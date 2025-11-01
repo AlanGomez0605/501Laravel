@@ -18,7 +18,18 @@
 /public/storage
 /storage/*.key
 /storage/pail
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
 /vendor
 Homestead.json
 Homestead.yaml
 Thumbs.db
+
+# Archivos de configuración temporal
+*.ps1
+*.bat
+*setup*
+database_info.php
+phpinfo.php
