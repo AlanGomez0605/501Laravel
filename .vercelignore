@@ -13,7 +13,6 @@
 /database/database.sqlite
 .phpunit.result.cache
 composer.lock
-package-lock.json
 
 # Development files
 .git
