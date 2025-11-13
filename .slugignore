@@ -1,0 +1,12 @@
+/tests
+/storage/logs/*.log
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/.git
+/.env.example
+/node_modules
+/vendor
+phpunit.xml
+.phpunit.result.cache
+README.md
