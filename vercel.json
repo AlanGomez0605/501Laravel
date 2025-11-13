@@ -30,6 +30,7 @@
   "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "false",
-    "LOG_LEVEL": "error"
+    "LOG_LEVEL": "error",
+    "APP_NAME": "501Laravel"
   }
 }
