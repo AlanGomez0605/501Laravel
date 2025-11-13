@@ -1,0 +1,34 @@
+# Laravel specific files that shouldn't be deployed
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/app/private/*
+/.env
+/.env.local
+/.env.example
+/node_modules
+/vendor
+/tests
+/database/database.sqlite
+.phpunit.result.cache
+composer.lock
+package-lock.json
+
+# Development files
+.git
+.gitignore
+.editorconfig
+phpunit.xml
+.styleci.yml
+_ide_helper.php
+.phpstorm.meta.php
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
