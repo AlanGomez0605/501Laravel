@@ -1,5 +1,0 @@
-FROM postgres:16
-ENV POSTGRES_DB=laravel_auth
-ENV POSTGRES_USER=laravel_user
-ENV POSTGRES_PASSWORD=LaRappa501_Password
-EXPOSE 5432
